@@ -9,7 +9,7 @@ The purpose of this analysis is to detirmine which employees are retiring as wel
   <img width="834" alt="Screen Shot 2020-11-18 at 8 03 45 PM" src="https://user-images.githubusercontent.com/71112085/99619896-452ab180-29d9-11eb-8053-90e01450b5e8.png">
   
 * Correcting Duplicates: In order to make sure employees weren't counted twice, we corrected the errors by updating the data to reflect only the employee's current role in the company.
-  <img width="589" alt="Screen Shot 2020-11-18 at 8 12 31 PM" src="https://user-images.githubusercontent.com/71112085/99620474-7192fd80-29da-11eb-9c72-aab3aaaa4eaf.png">
+<img width="589" alt="Screen Shot 2020-11-18 at 8 12 31 PM" src="https://user-images.githubusercontent.com/71112085/99620474-7192fd80-29da-11eb-9c72-aab3aaaa4eaf.png">
   
 * Mentorship Program: In order to detirmine which employees are eligible to participate in the mentorship program, we created a table holding that specific data. This image shows only the first few cantidates in the list, however the full table has every eligible employee accounted for!
 <img width="568" alt="Screen Shot 2020-11-18 at 8 28 38 PM" src="https://user-images.githubusercontent.com/71112085/99621412-b029b780-29dc-11eb-8ee4-8132d1f2a267.png">
